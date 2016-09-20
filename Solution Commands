@@ -1,0 +1,54 @@
+Clark-Sanfords-MacBook-Pro:cli_golf clarksanford$ cd kitchen
+Clark-Sanfords-MacBook-Pro:kitchen clarksanford$ rm fridge/diapers.txt fridge/freezer/couch.txt cans.txt fridge/trashcan/sink/delete-me.txt 
+Clark-Sanfords-MacBook-Pro:kitchen clarksanford$ mv pantry/crisper-drawer fridge
+Clark-Sanfords-MacBook-Pro:kitchen clarksanford$ touch fridge/crisper-drawer/apples.txt
+Clark-Sanfords-MacBook-Pro:kitchen clarksanford$ mv fridge/trashcan/ .
+Clark-Sanfords-MacBook-Pro:kitchen clarksanford$ mv trashcan/sink/ .
+Clark-Sanfords-MacBook-Pro:kitchen clarksanford$ mkdir sink/drying-rack
+Clark-Sanfords-MacBook-Pro:kitchen clarksanford$ mv sink/clean-dishes.txt sink/drying-rack/
+Clark-Sanfords-MacBook-Pro:kitchen clarksanford$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
